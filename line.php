@@ -27,7 +27,7 @@ if ( sizeof($request_array['events']) > 0 )
 			$reply_message = 'ขณะนี้อุณหภูมิที่ '.$temp.'°C องศาเซลเซียส';
 		}
 		else if($text== "ข้อมูลส่วนตัวของผู้พัฒนาระบบ"){
-		$reply_message = 'ชื่อนายปฏิภาณ ศรีทองคำ 
+		$reply_message = 'ชื่อนายบัญชา อุรารส 
 		อายุ 22 ปี 
 		น้ำหนัก 73 kg. 
 		สูง 170 cm. 
